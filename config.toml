@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "KayEssPea Blog"
+author = "Keisha S Perkins"
+theme = "hugo-theme-blueberry-detox"
