@@ -1,5 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "blog.keishasperkins.com"
 languageCode = "en-us"
 title = "KayEssPea Blog"
 author = "Keisha S Perkins"
 theme = "hugo-theme-blueberry-detox"
+publishDir = "docs"
