@@ -12,7 +12,7 @@ googleAnalytics = "UA-88471731-1"
 
 disqusShortname = "keishasperkinsblog"
 
-
+publishDir = "docs"
 
 [Author]
 
