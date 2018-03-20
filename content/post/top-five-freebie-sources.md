@@ -1,6 +1,6 @@
 ---
 title: "Top Five Sources for Free Assets"
-date: 2018-02-27T11:08:21-06:00
+date: 2018-03-18T11:08:21-06:00
 draft: false
 author: "Keisha"
 ---
@@ -10,7 +10,7 @@ I think it's fair to say that all of us have at one time or another needed to ge
 ## Pexels: Free Stock Photos and Video
 
 <figure>
-	<img src="./images/top-five-freebies/pexels.PNG" alt="Screenshot of Pexels.com Search Results">
+	<img src="/../images/top-five-freebies/pexels.PNG" alt="Screenshot of Pexels.com Search Results">
 	<figcaption>Pexels.com</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ All of the videos and photos come with a Creative Commons Zero (CC0) license, wh
 ## Creative Market: Free Goodies Weekly
 
 <figure>
-	<img src="./images/top-five-freebies/creative-market.PNG" alt="Screenshot of Weekly Free Goods From Creative Market">
+	<img src="/../images/top-five-freebies/creative-market.PNG" alt="Screenshot of Weekly Free Goods From Creative Market">
 	<figcaption>Creative Market.com</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ And don't worry about filling up your precious storage space with assets you don
 ## Mockup World: Free Mockups of All Kinds
 
 <figure>
-	<img src="./images/top-five-freebies/mockup-world.PNG" alt="Screenshot of Mock Up World">
+	<img src="/../images/top-five-freebies/mockup-world.PNG" alt="Screenshot of Mock Up World">
 	<figcaption>Mockupworld.co</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ A design looks just that much more polished and possible when mocked up well. I 
 ## Icon Finder: Icons and Symbols
 
 <figure>
-	<img src="./images/top-five-freebies/icon-finder.PNG" alt="Screenshot of Icon Finder">
+	<img src="/../images/top-five-freebies/icon-finder.PNG" alt="Screenshot of Icon Finder">
 	<figcaption>Iconfinder.com</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ My favorite feature of the site is it's collection of icon sets. They, too can b
 ## Speckyboy: The One-Stop Shop
 
 <figure>
-	<img src="./images/top-five-freebies/speckyboy.PNG" alt="Screenshot of Speckyboy">
+	<img src="/../images/top-five-freebies/speckyboy.PNG" alt="Screenshot of Speckyboy">
 	<figcaption>Speckyboy.com</figcaption>
 </figure>
 
