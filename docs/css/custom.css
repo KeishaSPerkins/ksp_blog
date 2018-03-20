@@ -12,3 +12,11 @@ pre{
 pre code{
     padding-left: 1rem !important;
 }
+
+a {
+	color: #f39;
+}
+
+a:hover{
+	color: #ca0067;
+}
