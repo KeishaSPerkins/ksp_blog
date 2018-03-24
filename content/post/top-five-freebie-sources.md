@@ -2,6 +2,8 @@
 title: "Top Five Sources for Free Assets"
 date: 2018-03-18T11:08:21-06:00
 draft: false
+tags: ['freebies', 'resources']
+categories: ['design']
 author: "Keisha"
 ---
 
@@ -11,7 +13,7 @@ I think it's fair to say that all of us have at one time or another needed to ge
 
 <figure>
 	<img src="/../images/top-five-freebies/pexels.PNG" alt="Screenshot of Pexels.com Search Results">
-	<figcaption>Pexels.com</figcaption>
+	<figcaption>Pexels</figcaption>
 </figure>
 
 Though the free stock <a href="http://pexels.com" target="_blank">images</a> are what brought me to Pexels in the first place, you can also find quality stock <a href="https://videos.pexels.com/" target="_blank">videos</a> there. Pexels' simple, clean interface makes searching for the image you want easy. Pexels is always a go-to and often has just what I need.
@@ -22,7 +24,7 @@ All of the videos and photos come with a Creative Commons Zero (CC0) license, wh
 
 <figure>
 	<img src="/../images/top-five-freebies/creative-market.PNG" alt="Screenshot of Weekly Free Goods From Creative Market">
-	<figcaption>Creative Market.com</figcaption>
+	<figcaption>Creative Market</figcaption>
 </figure>
 
 I can hear you now, "But Creative Market is a _marketplace!_" you say. And while it's true that <a href="http://creativemarket.com" target="_blank">Creative Market</a> is a place for artists to buy and sell their creations, it's also a source of some quality freebies. 
@@ -35,7 +37,7 @@ And don't worry about filling up your precious storage space with assets you don
 
 <figure>
 	<img src="/../images/top-five-freebies/mockup-world.PNG" alt="Screenshot of Mock Up World">
-	<figcaption>Mockupworld.co</figcaption>
+	<figcaption>Mockupworld</figcaption>
 </figure>
 
 <a href="https://www.mockupworld.co/">Mockup World</a> was one of the resources I was amazed to find for the first time. Looking for a good mockup can be challenging. Perhaps it's not the right size. Perhaps it's an awkward angle. Mockup World brings tons of free mockups to one place and takes some of that hassle away.
@@ -46,7 +48,7 @@ A design looks just that much more polished and possible when mocked up well. I 
 
 <figure>
 	<img src="/../images/top-five-freebies/icon-finder.PNG" alt="Screenshot of Icon Finder">
-	<figcaption>Iconfinder.com</figcaption>
+	<figcaption>Iconfinder</figcaption>
 </figure>
 
 Sometimes you're just looking for a set of icons to give your project a cohesive feel. It's hard to go from this place to that place piecing a set of icons together from different designers with different styles. <a href="https://www.iconfinder.com/">Icon Finder</a> allows you to search it's database of 2,200,000+ SVG icons by keyword and filter for free icons, and even free icons for personal use.
@@ -57,7 +59,7 @@ My favorite feature of the site is it's collection of icon sets. They, too can b
 
 <figure>
 	<img src="/../images/top-five-freebies/speckyboy.PNG" alt="Screenshot of Speckyboy">
-	<figcaption>Speckyboy.com</figcaption>
+	<figcaption>Speckyboy</figcaption>
 </figure>
 
 Speckyboy is an online web design magazine. I just love Speckyboy as a source for inspiration and information on new web technologies and techniques, but one of the great things I go there for is free assets. 

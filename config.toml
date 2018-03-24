@@ -18,14 +18,11 @@ publishDir = "docs"
 
     name = "Keisha S Perkins"
 
-    
-
-
 
 [Taxonomies]
 
     tag = "tags"
-
+    category = "categories"
 
 
 [Params]
