@@ -13,8 +13,38 @@
   </url>
   
   <url>
+    <loc>https://blog.keishasperkins.com/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/page/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/categories/design/</loc>
+    <lastmod>2018-03-18T11:08:21-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/tags/freebies/</loc>
+    <lastmod>2018-03-18T11:08:21-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.keishasperkins.com/</loc>
     <lastmod>2018-03-18T11:08:21-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/page/</loc>
     <priority>0</priority>
   </url>
   
@@ -25,8 +55,19 @@
   </url>
   
   <url>
-    <loc>https://blog.keishasperkins.com/tags/</loc>
+    <loc>https://blog.keishasperkins.com/tags/resources/</loc>
+    <lastmod>2018-03-18T11:08:21-06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/tags/</loc>
+    <lastmod>2018-03-18T11:08:21-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/page/thankyou/</loc>
   </url>
   
 </urlset>

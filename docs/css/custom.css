@@ -48,10 +48,50 @@ blockquote {
 
 code {
     color: #d06;
-    border: 1px solid #e28
-    border-radius: 0px
+    border: 1px solid #e28;
+    border-radius: 0px;
+}
+form{
+	width: 90%;
+	max-width: 500px;
+	margin: 25px auto;
+
+
+}
+input, textarea{
+	width: 100%;
+	border: 1px solid gray;
+	padding: 10px;
+	outline: none;
+	box-shadow: 0px 0px 0px transparent;
 }
 
+input:focus, textarea:focus{
+	outline: none;
+	border: 1px solid #d06;
+	box-shadow: 0px 2px 0px #d06;
+}
+label{
+	display: block;
+	margin: 20px 0 10px 0;
+	font-weight: bold;
+	font-size: 1.1rem;
+}
+
+button.submit{
+	display: block;
+	border-radius: 0;
+	margin-top: 20px;
+	margin-left: 0;
+}
+
+button.submit:hover{
+	background: #303030;
+}
+
+.thanks-wrapper{
+	text-align: center !important;
+}
 .button:hover { 
 	background: #d06; 
 }
