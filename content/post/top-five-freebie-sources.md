@@ -5,6 +5,8 @@ draft: false
 tags: ['freebies', 'resources']
 categories: ['design']
 author: "Keisha"
+type: "post"
+
 ---
 
 I think it's fair to say that all of us have at one time or another needed to get a job done on a small--or sometimes non-existent--budget. At times like these, we scour the web for quality free and cheap design assets. This post will share my favorite sources for free assets. They're in no particular order, but I think they're all pretty cool.

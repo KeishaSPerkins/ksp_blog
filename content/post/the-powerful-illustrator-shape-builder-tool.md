@@ -4,6 +4,8 @@ date: 2018-03-24T10:34:10-05:00
 draft: true
 tags: ['illustrator', 'tips & tricks', 'software', 'adobe']
 categories: ["design"]
+type: "post"
+
 ---
 
 When I began to foray into Adobe's Creative Suite, I was using Photoshop for everything. Need a logo for lots of uses? Just deliver a huge PNG! Want to draw a nice crisp illustration? The pen tool works just fine for that, right? Photoshop was my one-stop for everything I needed, though none of what I needed was what Photoshop was created for. It was some time before I even considered using any of Adobe's many great pieces of software that _actually_ suited my needs, like Illustrator.
