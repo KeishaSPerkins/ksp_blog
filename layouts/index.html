@@ -1,10 +1,12 @@
 {{ partial "header.html" . }}
+
 <div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
     {{ partial "intro.html" . }}
+
     <ol class="post-list">
         {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
         {{ range $pag.Pages }}
-          {{ partial "post-stub.html" . }}
+            {{ partial "post-stub.html" . }}
         {{ end }}
     </ol>
 
@@ -12,4 +14,5 @@
         {{ partial "pagination.html" . }}
     </div>
 </div>
+
 {{ partial "footer.html" . }}
