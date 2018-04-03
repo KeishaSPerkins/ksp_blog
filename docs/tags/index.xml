@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on KayEssPea Blog</title>
+    <link>https://blog.keishasperkins.com/tags/</link>
+    <description>Recent content in Tags on KayEssPea Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Keisha S Perkins</copyright>
+    <lastBuildDate>Mon, 02 Apr 2018 10:34:10 -0500</lastBuildDate>
+    
+	<atom:link href="https://blog.keishasperkins.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adobe</title>
+      <link>https://blog.keishasperkins.com/tags/adobe/</link>
+      <pubDate>Mon, 02 Apr 2018 10:34:10 -0500</pubDate>
+      
+      <guid>https://blog.keishasperkins.com/tags/adobe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freebies</title>
+      <link>https://blog.keishasperkins.com/tags/freebies/</link>
+      <pubDate>Sun, 18 Mar 2018 11:08:21 -0600</pubDate>
+      
+      <guid>https://blog.keishasperkins.com/tags/freebies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illustrator</title>
+      <link>https://blog.keishasperkins.com/tags/illustrator/</link>
+      <pubDate>Mon, 02 Apr 2018 10:34:10 -0500</pubDate>
+      
+      <guid>https://blog.keishasperkins.com/tags/illustrator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://blog.keishasperkins.com/tags/resources/</link>
+      <pubDate>Sun, 18 Mar 2018 11:08:21 -0600</pubDate>
+      
+      <guid>https://blog.keishasperkins.com/tags/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://blog.keishasperkins.com/tags/software/</link>
+      <pubDate>Mon, 02 Apr 2018 10:34:10 -0500</pubDate>
+      
+      <guid>https://blog.keishasperkins.com/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips  Tricks</title>
+      <link>https://blog.keishasperkins.com/tags/tips--tricks/</link>
+      <pubDate>Mon, 02 Apr 2018 10:34:10 -0500</pubDate>
+      
+      <guid>https://blog.keishasperkins.com/tags/tips--tricks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

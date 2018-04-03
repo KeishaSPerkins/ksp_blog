@@ -88,7 +88,7 @@ In the event that a new size is introduced, I can easily add it to the mix, know
 
 ## Wait, This Doesn't Quite Work Yet
 
-Right away when using my new document, I noticed a major problem: it hampered iteration. I usually begin a design thinking that what I've sketched or imagined will definitely work. Sometimes it doesn't. At that point, I create a new artboard in the same document and try again. I like this process because it let's me see my process and preserves "failed" designs just in case one could work for another project.
+Right away when using my new document, I noticed a major problem: it hampered iteration. I usually begin a design thinking that what I've sketched or imagined will definitely work. Sometimes it doesn't. At that point, I create a new artboard in the same document and try again. I like doing it this way because it let's me see my process and preserves "failed" designs just in case one could work for another project.
 
 The solution: remove the "Base" artboard from the final result! 
 
