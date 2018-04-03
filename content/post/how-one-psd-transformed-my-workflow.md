@@ -1,13 +1,17 @@
 ---
-title: "How One PSD Transformed My Workflow"
-date: 2018-03-29T21:17:22-05:00
+title: How One PSD Transformed My Workflow
+date: 2018-04-03 02:17:22 +0000
+tags:
+- design
+- tips & tricks
+- Photoshop
+- Adobe
+categories:
+- design
+author: Keisha
 draft: true
-tags: ['design', "tips & tricks", "Photoshop", "Adobe"]
-categories: ['design']
-author: "Keisha"
 
 ---
-
 I create a good deal of media for my church, and sometimes that media needs to be used in many ways. Perhaps the event flier that I create for a pre-service loop of slides needs to also be made to fit social media, or be printed and handed out. 
 
 Up until recently I solved this issue by first designing something for the church's presentation screen at a 16:9 ratio, then resizing and tweaking the design to meet whatever other needs where given to me. But no more! I have seen the light!
