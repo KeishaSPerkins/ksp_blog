@@ -4,7 +4,7 @@ date: 2018-03-18T11:08:21-06:00
 draft: false
 tags: ['freebies', 'resources']
 categories: ['design']
-author: "Keisha"
+author: "Keisha S Perkins"
 type: "post"
 
 ---

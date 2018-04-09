@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://blog.keishasperkins.com/2018/02/24/using-javascript-libraries-for-game-development-activateconf2018/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.keishasperkins.com/page/about/</loc>
   </url>
   
@@ -29,6 +34,24 @@
   
   <url>
     <loc>https://blog.keishasperkins.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/tags/coding/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/categories/coding/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/tags/conference/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,14 +72,44 @@
   </url>
   
   <url>
+    <loc>https://blog.keishasperkins.com/tags/games/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/tags/html-canvas/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/tags/html5/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.keishasperkins.com/tags/illustrator/</loc>
     <lastmod>2018-04-02T10:34:10-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://blog.keishasperkins.com/tags/javascript/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.keishasperkins.com/</loc>
     <lastmod>2018-04-02T10:34:10-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.keishasperkins.com/tags/p5.js/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -38,17 +38,17 @@ figure figcaption{
 }
 
 a {
-    color: #d06;
+    color: #606;
     text-decoration: none;
 }
 
 blockquote {
-    border-left: 2px solid #d06;
+    border-left: 2px solid #606;
 }	
 
 code {
-    color: #d06;
-    border: 1px solid #e28;
+    color: #606;
+    border: 1px solid #909;
     border-radius: 0px;
 }
 form{
@@ -68,8 +68,8 @@ input, textarea{
 
 input:focus, textarea:focus{
 	outline: none;
-	border: 1px solid #d06;
-	box-shadow: 0px 2px 0px #d06;
+	border: 1px solid #606;
+	box-shadow: 0px 2px 0px #606;
 }
 label{
 	display: block;
@@ -93,56 +93,57 @@ button.submit:hover{
 	text-align: center !important;
 }
 .button:hover { 
-	background: #d06; 
+	background: #606; 
 }
 
 .button-square {
-  background: #d06;
+  background: #606;
 }
 
 .site-title a {
-  background: #d06;
+  background: #606;
 }
 
 .blog-description a:hover { 
-	color: #d06; 
+	color: #606; 
 }
 
 .post-content a:hover {
-  border-bottom: 1px dotted #d06;
+  border-bottom: 1px dotted #606;
 }
 
 .share a {
-  background: #d06;
+  background: #606;
 }
 
 .newer-posts,
 .older-posts {
-  background: #d06;
+  background: #606;
 }
 
 .post-stub a:hover {
-	color: #d06;
+	color: #606;
+	background: #fdf3fd;
 }
 .post-stub a:hover .post-stub-tag { 
-	background: #d06; 
+	background: #606; 
 }
 
 .author-meta a:hover { 
-	color: #d06; 
+	color: #606; 
 }
 p.post-date a:hover{
-	color: #d06;
+	color: #606;
 }
 #nprogress .bar { 
-	background: #d06; 
+	background: #606; 
 }
 
 #nprogress .peg { 
-	box-shadow: 0 0 10px #d06, 0 0 5px #d06; 
+	box-shadow: 0 0 10px #606, 0 0 5px #606; 
 }
 
 #nprogress .spinner-icon {
-    border-top-color: #d06;
-    border-left-color: #d06;
+    border-top-color: #606;
+    border-left-color: #606;
 }

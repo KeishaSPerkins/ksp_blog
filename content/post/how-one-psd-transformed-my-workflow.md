@@ -8,9 +8,8 @@ tags:
 - Adobe
 categories:
 - design
-author: Keisha
+author: Keisha S Perkins
 draft: true
-
 ---
 I create a good deal of media for my church, and sometimes that media needs to be used in many ways. Perhaps the event flier that I create for a pre-service loop of slides needs to also be made to fit social media, or be printed and handed out. 
 

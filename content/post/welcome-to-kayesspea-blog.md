@@ -2,7 +2,7 @@
 title: "Welcome to KayEssPea Blog!"
 date: 2018-02-27T11:08:21-06:00
 draft: false
-author: "Keisha"
+author: "Keisha S Perkins"
 type: "post"
 
 ---
