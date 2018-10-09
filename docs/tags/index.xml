@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Keisha S Perkins</copyright>
-    <lastBuildDate>Mon, 02 Apr 2018 10:34:10 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Apr 2018 02:17:22 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.keishasperkins.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Adobe</title>
       <link>https://blog.keishasperkins.com/tags/adobe/</link>
-      <pubDate>Mon, 02 Apr 2018 10:34:10 -0500</pubDate>
+      <pubDate>Tue, 03 Apr 2018 02:17:22 +0000</pubDate>
       
       <guid>https://blog.keishasperkins.com/tags/adobe/</guid>
       <description></description>
@@ -36,6 +36,15 @@
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
       <guid>https://blog.keishasperkins.com/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://blog.keishasperkins.com/tags/design/</link>
+      <pubDate>Tue, 03 Apr 2018 02:17:22 +0000</pubDate>
+      
+      <guid>https://blog.keishasperkins.com/tags/design/</guid>
       <description></description>
     </item>
     
@@ -103,6 +112,15 @@
     </item>
     
     <item>
+      <title>Photoshop</title>
+      <link>https://blog.keishasperkins.com/tags/photoshop/</link>
+      <pubDate>Tue, 03 Apr 2018 02:17:22 +0000</pubDate>
+      
+      <guid>https://blog.keishasperkins.com/tags/photoshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Resources</title>
       <link>https://blog.keishasperkins.com/tags/resources/</link>
       <pubDate>Sun, 18 Mar 2018 11:08:21 -0600</pubDate>
@@ -123,7 +141,7 @@
     <item>
       <title>Tips  Tricks</title>
       <link>https://blog.keishasperkins.com/tags/tips--tricks/</link>
-      <pubDate>Mon, 02 Apr 2018 10:34:10 -0500</pubDate>
+      <pubDate>Tue, 03 Apr 2018 02:17:22 +0000</pubDate>
       
       <guid>https://blog.keishasperkins.com/tags/tips--tricks/</guid>
       <description></description>

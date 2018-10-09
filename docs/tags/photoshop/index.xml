@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photoshop on KayEssPea Blog</title>
+    <link>https://blog.keishasperkins.com/tags/photoshop/</link>
+    <description>Recent content in Photoshop on KayEssPea Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Keisha S Perkins</copyright>
+    <lastBuildDate>Tue, 03 Apr 2018 02:17:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.keishasperkins.com/tags/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How One PSD Transformed My Workflow</title>
+      <link>https://blog.keishasperkins.com/2018/04/03/how-one-psd-transformed-my-workflow/</link>
+      <pubDate>Tue, 03 Apr 2018 02:17:22 +0000</pubDate>
+      
+      <guid>https://blog.keishasperkins.com/2018/04/03/how-one-psd-transformed-my-workflow/</guid>
+      <description>I create a good deal of media for my church, and sometimes that media needs to be used in many ways. Perhaps the event flier that I create for a pre-service loop of slides needs to also be made to fit social media, or be printed and handed out.
+Up until recently I solved this issue by first designing something for the church&amp;rsquo;s presentation screen at a 16:9 ratio, then resizing and tweaking the design to meet whatever other needs where given to me.</description>
+    </item>
+    
+  </channel>
+</rss>
